@@ -12,8 +12,14 @@ class Program
 
         string var1="Hello";
         string var2 = "World";
+
+        //concatenation of the first two variables
         object concatenation=var1+' '+var2 ;
+
+        //cast object to string
         string var3 = (string)concatenation;
+
+        //print var3 with the value of the object variable 
         Console.WriteLine(var3);
     }
 }
