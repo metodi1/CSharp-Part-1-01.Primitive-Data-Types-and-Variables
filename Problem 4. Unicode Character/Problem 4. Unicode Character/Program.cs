@@ -8,8 +8,8 @@ class Program
     static void Main()
     {
         
-        char star = '\u002A';
-        Console.WriteLine(star);
+        char code = '\u002A';
+        Console.WriteLine(code);
       
         }
     }
