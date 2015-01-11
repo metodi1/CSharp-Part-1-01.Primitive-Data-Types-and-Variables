@@ -16,10 +16,10 @@ namespace Problem_2.Float_or_Double
 
             double number1 = 34.567839023;
             float number2 = 12.345f;
-            double number3 = 8923.1234857f;
+            double number3 = 8923.1234857;
             float number4 = 3456.091f;
 
-            Console.WriteLine("{0} is double, {1} is foat, {2} is foat, {3} is float", number1, number2, number3, number4);
+            Console.WriteLine("{0} is double, {1} is foat, {2} is double,\n {3} is float", number1, number2, number3, number4);
 
         }
     }
