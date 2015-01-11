@@ -12,5 +12,21 @@ class Problem_9_Exchange_Variable_Values
 {
     static void Main()
     {
+        //Declare and assign two integer variables a and b
+        byte a = 5;
+        byte b = 10;
+
+        Console.WriteLine("Variable values before the exchange are:a={0} b={1}",a,b);
+
+        //assign a to c,d to e
+        byte c = a;
+       
+
+        //assign a to b, b to c
+        a = b;
+        b = c;
+        Console.WriteLine("Variable values after the exchange are:a={0} b={1}", a, b);
+
+
     }
 }
