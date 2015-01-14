@@ -9,7 +9,7 @@
 //Print the variables to ensure that their value was correctly defined.
 
             string withQuoted = "The \"use\" of quotations causes difficulties.";
-            string withoutQuoted = "The use of quotations causes difficulties.";
+            string withoutQuoted = @"The ""use"" of quotations causes difficulties.";
 
             Console.WriteLine(withQuoted);
             Console.WriteLine(withoutQuoted);
