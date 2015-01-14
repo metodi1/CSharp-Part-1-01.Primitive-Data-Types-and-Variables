@@ -2,7 +2,7 @@
 
 
 
-class Program
+class Problem_6_Strings_and_Objects
 {
     static void Main()
     {
