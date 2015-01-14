@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Problem_1.Declare_Variables
 {
-    class Program
+    class Problem_1.Declare_Variables
     {
         static void Main()
         {
@@ -21,8 +21,8 @@ namespace Problem_1.Declare_Variables
             sbyte number4=97;
             short number5=-10000;
 
-            Console.WriteLine("{0} is ushort, {1} is sbyte, {2} is int, {3} is sbyte, {4} is short.", number1, number2, number3, number4, number5);
-            
+            Console.WriteLine("{0} is ushort, {1} is sbyte, {2} is int, {3},", number1, number2, number3);
+            Console.Write("{0} is ushort, {1} is sbyte.",number4, number5);
 
         }
     }
