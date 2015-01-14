@@ -2,7 +2,7 @@
 
 
 
-class Program
+class Problem_3_Variable_in_Hexadecimal_Format
 {
     static void Main()
     //Declare an integer variable and assign it with the value 254 in hexadecimal format (0x##).
