@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-class Program
+class Problem_5_Boolean_Variable
 {
     static void Main()
 //Declare a Boolean variable called isFemale and assign an appropriate value corresponding to your gender.
@@ -9,6 +9,6 @@ class Program
     {
             
         bool isFemale=false;
-        Console.WriteLine("is it true that I'm a woman:{0}", isFemale);
+        Console.WriteLine("Is it true that I'm a woman:{0}", isFemale);
     }
 }
