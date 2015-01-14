@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Problem_2.Float_or_Double
 {
-    class Program
+    class Problem_2_Float_or_Double
     {
         static void Main()
         {
