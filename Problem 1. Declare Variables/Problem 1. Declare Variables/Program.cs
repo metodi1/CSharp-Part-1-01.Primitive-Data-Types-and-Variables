@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Problem_1.Declare_Variables
 {
-    class Problem_1.Declare_Variables
+    class Problem_1_Declare_Variables
     {
         static void Main()
         {
